@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello my name is Durgesh Maurya.
+=======
+Hello my name is Durgesh Maurya.My village is Hassimgarh Chhituni . I am from akbarpur Ambedkarnagar.
+>>>>>>> nFeature
